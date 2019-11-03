@@ -1,0 +1,15 @@
+1.Pada page pertama, harap masukan terlebih dahulu username yang anda inginkan
+  dan juga password, Confirm password harus sama dengan password sebelumnya
+
+2.Jika sudah maka, anda dapat langsung registrasi dan akan redirect langsung ke arah Login 
+  page
+
+3.Login menggunakan username dan password yang sudah anda buat sebelumnya
+
+4.Ketika sudah login, maka user akan masuk kedalam page data.aspx beserta session 
+
+5.Klik Logout untuk keluar dari page Data
+
+6.User akan langsung diredirect kearah login page, user bisa melakukan login kembali
+
+7.Anda bisa melakukan kembali langkah dari 1 sampai 6
