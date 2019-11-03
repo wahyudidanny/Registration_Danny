@@ -26,5 +26,4 @@ This cache still have flaws, such as:
        
 If you want to check the project, modify or adding some feature in the program, feel free to make change,clone, or download the repository
 
-THANK YOU,
-Danny Wahyudi
+Thank You
