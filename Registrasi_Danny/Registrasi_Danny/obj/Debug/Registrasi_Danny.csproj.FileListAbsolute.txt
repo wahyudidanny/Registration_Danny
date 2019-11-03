@@ -1,0 +1,6 @@
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Registrasi_Danny\Registrasi_Danny\bin\Registrasi_Danny.dll.config
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Registrasi_Danny\Registrasi_Danny\bin\Registrasi_Danny.dll
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Registrasi_Danny\Registrasi_Danny\bin\Registrasi_Danny.pdb
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Registrasi_Danny\Registrasi_Danny\obj\Debug\Registrasi_Danny.dll
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Registrasi_Danny\Registrasi_Danny\obj\Debug\Registrasi_Danny.pdb
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Registrasi_Danny\Registrasi_Danny\obj\Debug\Registrasi_Danny.csprojResolveAssemblyReference.cache
