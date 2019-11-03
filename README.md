@@ -14,6 +14,16 @@ In this project, i'm only using 1 internal reference from Visual Studio (System.
 ## CSS Style
 I'm also using internal CSS for styling
 
+## Cache Username dan Password
+In this project, i'm using the caching method store on register and then get the data on another page with same cache
+This cache still have flaws, such as:
+
+       1.still doesn't know how to add the cache data
+         even though i'm already using adding in the register, still doesn't add the data in cache
+         so when user register, the data replace from old to another new data
+       2.the cache value is  dataset, already try list and dictionary before but still cannot convert when
+         i'm transfer the cache
+       
 If you want to check the project, modify or adding some feature in the program, feel free to make change,clone, or download the repository
 
 THANK YOU,
